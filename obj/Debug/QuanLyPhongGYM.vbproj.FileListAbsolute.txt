@@ -1,0 +1,24 @@
+C:\Users\Admin\Desktop\lapTrinhWinDow\QuanLyPhongGYM\bin\Debug\QuanLyPhongGYM.exe.config
+C:\Users\Admin\Desktop\lapTrinhWinDow\QuanLyPhongGYM\bin\Debug\QuanLyPhongGYM.exe
+C:\Users\Admin\Desktop\lapTrinhWinDow\QuanLyPhongGYM\bin\Debug\QuanLyPhongGYM.pdb
+C:\Users\Admin\Desktop\lapTrinhWinDow\QuanLyPhongGYM\bin\Debug\QuanLyPhongGYM.xml
+C:\Users\Admin\Desktop\lapTrinhWinDow\QuanLyPhongGYM\obj\Debug\QuanLyPhongGYM.vbproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\lapTrinhWinDow\QuanLyPhongGYM\obj\Debug\QuanLyPhongGYM.Form1.resources
+C:\Users\Admin\Desktop\lapTrinhWinDow\QuanLyPhongGYM\obj\Debug\QuanLyPhongGYM.Resources.resources
+C:\Users\Admin\Desktop\lapTrinhWinDow\QuanLyPhongGYM\obj\Debug\QuanLyPhongGYM.vbproj.GenerateResource.cache
+C:\Users\Admin\Desktop\lapTrinhWinDow\QuanLyPhongGYM\obj\Debug\QuanLyPhongGYM.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\lapTrinhWinDow\QuanLyPhongGYM\obj\Debug\QuanLyPhongGYM.exe
+C:\Users\Admin\Desktop\lapTrinhWinDow\QuanLyPhongGYM\obj\Debug\QuanLyPhongGYM.xml
+C:\Users\Admin\Desktop\lapTrinhWinDow\QuanLyPhongGYM\obj\Debug\QuanLyPhongGYM.pdb
+C:\Vo Tan Tai\Word cua Tai\QuanLyPhongGYM\bin\Debug\QuanLyPhongGYM.exe.config
+C:\Vo Tan Tai\Word cua Tai\QuanLyPhongGYM\bin\Debug\QuanLyPhongGYM.exe
+C:\Vo Tan Tai\Word cua Tai\QuanLyPhongGYM\bin\Debug\QuanLyPhongGYM.pdb
+C:\Vo Tan Tai\Word cua Tai\QuanLyPhongGYM\bin\Debug\QuanLyPhongGYM.xml
+C:\Vo Tan Tai\Word cua Tai\QuanLyPhongGYM\obj\Debug\QuanLyPhongGYM.vbproj.AssemblyReference.cache
+C:\Vo Tan Tai\Word cua Tai\QuanLyPhongGYM\obj\Debug\QuanLyPhongGYM.Form1.resources
+C:\Vo Tan Tai\Word cua Tai\QuanLyPhongGYM\obj\Debug\QuanLyPhongGYM.Resources.resources
+C:\Vo Tan Tai\Word cua Tai\QuanLyPhongGYM\obj\Debug\QuanLyPhongGYM.vbproj.GenerateResource.cache
+C:\Vo Tan Tai\Word cua Tai\QuanLyPhongGYM\obj\Debug\QuanLyPhongGYM.vbproj.CoreCompileInputs.cache
+C:\Vo Tan Tai\Word cua Tai\QuanLyPhongGYM\obj\Debug\QuanLyPhongGYM.exe
+C:\Vo Tan Tai\Word cua Tai\QuanLyPhongGYM\obj\Debug\QuanLyPhongGYM.xml
+C:\Vo Tan Tai\Word cua Tai\QuanLyPhongGYM\obj\Debug\QuanLyPhongGYM.pdb
