@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\lapTrinhWinDow\QuanLyPhongGYMv1\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll
+C:\Users\Admin\Desktop\lapTrinhWinDow\QuanLyPhongGYMv1\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.pdb
+C:\Users\Admin\Desktop\lapTrinhWinDow\QuanLyPhongGYMv1\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\lapTrinhWinDow\QuanLyPhongGYMv1\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\lapTrinhWinDow\QuanLyPhongGYMv1\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.dll
+C:\Users\Admin\Desktop\lapTrinhWinDow\QuanLyPhongGYMv1\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.pdb
+C:\Users\Admin\Desktop\lapTrinhWinDow\QuanLyPhongGYMv1\BusinessAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Admin\Desktop\lapTrinhWinDow\QuanLyPhongGYMv1\BusinessAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Admin\Desktop\lapTrinhWinDow\QuanLyPhongGYMv1\BusinessAccessLayer\obj\Debug\Business.395A7FC9.Up2Date

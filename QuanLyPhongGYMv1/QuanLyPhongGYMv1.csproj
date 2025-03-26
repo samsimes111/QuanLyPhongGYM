@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6F0F3AD2-F7A9-4048-A351-26DA707CCFDA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>QuanLyPhongGYMv1</RootNamespace>
+    <AssemblyName>QuanLyPhongGYMv1</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BusinessAccessLayer">
+      <HintPath>BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll</HintPath>
+    </Reference>
+    <Reference Include="DataAccessLayer">
+      <HintPath>BusinessAccessLayer\bin\Debug\DataAccessLayer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Dangnhapv1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dangnhapv1.Designer.cs">
+      <DependentUpon>Dangnhapv1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dangnhapv2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dangnhapv2.Designer.cs">
+      <DependentUpon>Dangnhapv2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GiaoDienChinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GiaoDienChinh.Designer.cs">
+      <DependentUpon>GiaoDienChinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhapThongTin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NhapThongTin.Designer.cs">
+      <DependentUpon>NhapThongTin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLyHv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuanLyHv.Designer.cs">
+      <DependentUpon>QuanLyHv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TChu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TChu.Designer.cs">
+      <DependentUpon>TChu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Dangnhapv1.resx">
+      <DependentUpon>Dangnhapv1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dangnhapv2.resx">
+      <DependentUpon>Dangnhapv2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GiaoDienChinh.resx">
+      <DependentUpon>GiaoDienChinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhapThongTin.resx">
+      <DependentUpon>NhapThongTin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLyHv.resx">
+      <DependentUpon>QuanLyHv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TChu.resx">
+      <DependentUpon>TChu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\risen-wang-20jX9b35r_M-unsplash.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\risen-wang-20jX9b35r_M-unsplash %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_avatar_people_man_person_icon_262044.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải xuống %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anastase-maragos-7kEpUPB8vNk-unsplash.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2_116664.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anastase-maragos-7kEpUPB8vNk-unsplash1.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
